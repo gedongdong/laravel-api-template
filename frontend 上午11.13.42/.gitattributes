@@ -1,0 +1,2 @@
+*.jsx linguist-language=Vue
+*.tsx linguist-language=Vue
